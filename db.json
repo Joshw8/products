@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Focus Paper Refill",
-            "href": "#",
+            "href": "/products/focus-paper-refill",
             "price": "$13",
             "description": "3 sizes available",
             "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-01-image-card-01.jpg",
@@ -12,7 +12,7 @@
         {
             "id": 2,
             "name": "Focus Card Holder",
-            "href": "#",
+            "href": "/products/focus-card-holder",
             "price": "$64",
             "description": "Walnut",
             "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-01-image-card-02.jpg",
@@ -21,7 +21,7 @@
         {
             "id": 3,
             "name": "Focus Carry Pouch",
-            "href": "#",
+            "href": "/products/focus-carry-pouch",
             "price": "$32",
             "description": "Heather Gray",
             "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-01-image-card-03.jpg",
@@ -30,7 +30,7 @@
         {
             "id": 7,
             "name": "Electric Kettle",
-            "href": "#",
+            "href": "/products/electric-kettle",
             "price": "$149",
             "description": "Black",
             "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-01-image-card-07.jpg",
@@ -39,7 +39,7 @@
         {
             "id": 8,
             "name": "Leather Workspace Pad",
-            "href": "#",
+            "href": "/products/leather-workspace-pad",
             "price": "$165",
             "description": "Black",
             "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-01-image-card-08.jpg",
@@ -49,7 +49,7 @@
         {
             "id": 9,
             "name": "Leather Long Wallet",
-            "href": "#",
+            "href": "/products/leather-long-wallet",
             "price": "$118",
             "description": "Natural",
             "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-01-image-card-09.jpg",
