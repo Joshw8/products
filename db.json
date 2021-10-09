@@ -8,7 +8,8 @@
             "description": "3 sizes available",
             "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-01-image-card-01.jpg",
             "imageAlt": "Person using a pen to cross a task off a productivity paper card.",
-            "inStock": true
+            "inStock": true,
+            "quantity": 3
         },
         {
             "id": 2,
@@ -18,7 +19,8 @@
             "description": "Walnut",
             "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-01-image-card-02.jpg",
             "imageAlt": "Paper card sitting upright in walnut card holder on desk.",
-            "inStock": true
+            "inStock": true,
+            "quantity": 4
         },
         {
             "id": 3,
@@ -28,7 +30,8 @@
             "description": "Heather Gray",
             "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-01-image-card-03.jpg",
             "imageAlt": "Textured gray felt pouch for paper cards with snap button flap and elastic pen holder loop.",
-            "inStock": true
+            "inStock": false,
+            "quantity": 0
         },
         {
             "id": 7,
@@ -38,7 +41,8 @@
             "description": "Black",
             "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-01-image-card-07.jpg",
             "imageAlt": "Close up of long kettle spout pouring boiling water into pour-over coffee mug with frothy coffee.",
-            "inStock": true
+            "inStock": true,
+            "quantity": 3
         },
         {
             "id": 8,
@@ -49,7 +53,8 @@
             "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-01-image-card-08.jpg",
             "imageAlt":
                 "Extra large black leather workspace pad on desk with computer, wooden shelf, desk organizer, and computer peripherals.",
-            "inStock": true
+            "inStock": true,
+            "quantity": 8
         },
         {
             "id": 9,
@@ -60,7 +65,8 @@
             "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-01-image-card-09.jpg",
             "imageAlt":
                 "Leather long wallet held open with hand-stitched card dividers, full-length bill pocket, and simple tab closure.",
-            "inStock": true
+            "inStock": true,
+            "quantity": 7
         }
     ]
 }
